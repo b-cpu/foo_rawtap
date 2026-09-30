@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="foo_rawtap.vcxproj" Id="78ec5474-2ce2-424e-8ef3-cb93734f422f" />
+</Solution>
