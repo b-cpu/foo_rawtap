@@ -1,4 +1,4 @@
-# foo_rawtap — Raw Sample Tap for foobar2000
+# foo_rawtap - Raw Sample Tap for foobar2000
 
 `foo_rawtap` is a foobar2000 component that streams the audio being played, as raw 32-bit
 floating-point PCM, to a Windows named pipe. Any program on the same machine can open the
