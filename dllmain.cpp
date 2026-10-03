@@ -1,4 +1,4 @@
-// foo_rawtap - "Raw Sample Tap" Foobar2000 Plugin (optimised revision)
+// foo_rawtap - "Raw Sample Tap" foobar2000 Plugin (optimised revision)
 //
 // Streams the float32 PCM that is audible at this moment (visualisation
 // stream) to the named pipe \\.\pipe\foobar2000_rawtap while a client is
